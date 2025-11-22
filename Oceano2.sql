@@ -1,2 +1,0 @@
-CREATE DATABASE OceanWorldDB;
-USE OceanWorldDB;
